@@ -1,0 +1,8 @@
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.deps.json
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.dll
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/bin/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.pdb
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.AssemblyInfo.cs
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.dll
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Core/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Core.pdb

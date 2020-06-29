@@ -1,0 +1,4 @@
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Tests/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Tests.csprojAssemblyReference.cache
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Tests/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Tests.AssemblyInfoInputs.cache
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Tests/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Tests.AssemblyInfo.cs
+/Users/danielmarques/Documents/Projetos/CursoTesteTDD/Alura.LeilaoOnline 2/Alura.LeilaoOnline.Tests/obj/Debug/netcoreapp2.1/Alura.LeilaoOnline.Tests.csproj.CoreCompileInputs.cache
